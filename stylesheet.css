@@ -1,0 +1,117 @@
+header{
+    position: relative;
+    font-family: 'Monoton', cursive;
+    font-size: 25px;
+    text-align: center;
+    margin: 2% 0% 3% 5%;
+    color:  #c17b69;
+}
+nav{
+    color:  #c17b69;
+    font-family: 'Monoton', cursive;
+    font-size: 25px;
+    
+}
+body{
+    background-color: rgba(11,21,40);
+}
+.bckcolor p {
+	font-family:'Open Sans', sans-serif;
+  color: #c17b69;
+}
+.bckcolor{
+    background-color: rgba(237,237,238);
+    margin-top:100px;
+    margin-right:
+}
+.bckcolor h1{
+    color: #c17b69;
+    text-align: center;
+    
+}
+.container h3{
+    color: #c17b69;
+    text-shadow: 1px 1px #c17b69;    
+ }
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    margin-left: 22%;
+    margin-right: 20%;
+}
+.bushwichbread{
+    flex: 1;
+    background-image: url(bushwichbread.jpg);
+    background-size: cover;
+    margin-right: 20px;
+    border: 1px solid #c17b69;
+}
+
+.biggy{
+    flex: 1;
+    background-image: url(biggy.jpg);
+    background-size: cover;
+    margin-left: 20px;
+    border: 1px solid #c17b69;
+}
+.bender{
+    flex: 1;
+    background-image: url(bender.jpg);
+    background-size: cover;
+    margin-right: 20px;
+    border: 1px solid #c17b69;
+}
+.batwife{
+    flex: 1;
+    background-image: url(batwife.jpg);
+    background-size: cover;
+    margin-left: 20px;
+    border: 1px solid #c17b69;
+}
+.blackisbeautiful{
+    flex: 1;
+    background-image: url(blackisbeautiful.jpg);
+    background-size: cover;
+    margin-right: 20px;
+    border: 1px solid #c17b69;
+}
+.wifebanksy{
+    flex: 1;
+    background-image: url(wifebanksy.jpg);
+    background-size: cover;
+    margin-left: 20px;
+    border: 1px solid #c17b69;
+}
+.askotface{
+    flex: 1;
+    background-image: url(askotface.jpg);
+    background-size: cover;
+    margin-right: 20px;
+    border: 1px solid #c17b69;
+}   
+.littlebanksy{
+    flex: 1;
+    background-image: url(littlebanksy.jpg);
+    background-size: cover;
+    margin-right: 20px;
+    border: 1px solid #c17b69;
+}
+.text{
+    flex: 1;
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    max-height: inherit;
+    color: #c17b69
+}
+iframe{
+    text-align: center;
+}
+footer {
+    position: relative;
+    font-size: 12px;
+    text-align: center;
+    margin: 2% 0% 3% 5%;
+    color:  #c17b69;
+}
